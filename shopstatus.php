@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Bow</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="http://bm/assets/css/shopstatusphp.css" rel="stylesheet">
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+</head>
+
+<body>
+    <div class="main-wrapper">
+        <header>
+            <img class="logo" src="http://bm/assets/images/BOW.svg" alt="лого">
+            <nav>
+                <ul class="nav__links">
+                    <li><a id="main" href="http://bm/index.html">Главная</a></li>
+                    <li><a href="http://bm/start.html">Начать играть</a></li>
+                    <li><a href="http://bm/shopstatus.php">Магазин</a></li>
+                    <li><a href="http://bm/rules.html">Правила</a></li>
+                    <li><a href="http://bm/500.html">Wiki</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <div class="section">
+                <nav>
+                    <ul class="shop__nav">
+                        <li><a id="shopstatus1" href="http://bm/shopstatus.php">Статус</a></li>
+                        <li><a href="http://bm/shopstatus.php">Предметы</a></li>
+                        <li><a href="http://bm/shopservices.php">Услуги</a></li>
+                    </ul>
+                </nav>
+                <div class="squares">
+                    <div class="squaressmall">
+                        <img class="currencyLeft" src="http://bm/assets/images/currency.svg" alt="валюта">
+                        <img class="currencyRight" src="http://bm/assets/images/currency.svg" alt="валюта">
+                        <div class="text">
+                            <div class="spent">
+                                <p>
+                                    Потрачено валюты:
+                                </p>
+                            </div>
+                            <div class="spentSum">
+                                <p>
+                                    1 000 000 ฿
+                                </p>
+                            </div>
+                            <a class="donate" href="#">
+                                <button class="donate-btn">Пожертвовать</button>
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="cardsrow1">
+                    <div class="cards1">
+                        <p class="vip">
+                            VIP
+                        </p>
+                        <div class="icon1"></div>
+                        <p class="amount">
+                            599 ฿
+                        </p>
+                        <a class="more1" href="#">
+                            <button class="more1-btn">Подробнее</button>
+                        </a>
+                    </div>
+                    <div class="cards2">
+                        <p class="vip">
+                            VIP
+                        </p>
+                        <div class="icon2"></div>
+                        <p class="amount">
+                            599 ฿
+                        </p>
+                        <a class="more2" href="#">
+                            <button class="more2-btn">Подробнее</button>
+                        </a>
+                    </div>
+                    <div class="cards3">
+                        <p class="vip">
+                            VIP
+                        </p>
+                        <div class="icon3"></div>
+                        <p class="amount">
+                            599 ฿
+                        </p>
+                        <a class="more3" href="#">
+                            <button class="more3-btn">Подробнее</button>
+                        </a>
+                    </div>
+                    <div class="cards4">
+                        <p class="vip">
+                            VIP
+                        </p>
+                        <div class="icon4"></div>
+                        <p class="amount">
+                            599 ฿
+                        </p>
+                        <a class="more4" href="#">
+                            <button class="more4-btn">Подробнее</button>
+                        </a>
+                    </div>
+                </div>
+                <div class="cardsrow2">
+                    <div class="cards5">
+                        <p class="vip">
+                            VIP
+                        </p>
+                        <div class="icon5"></div>
+                        <p class="amount">
+                            599 ฿
+                        </p>
+                        <a class="more5" href="#">
+                            <button class="more5-btn">Подробнее</button>
+                        </a>
+                    </div>
+                    <div class="cards6">
+                        <p class="vip">
+                            VIP
+                        </p>
+                        <div class="icon6"></div>
+                        <p class="amount">
+                            599 ฿
+                        </p>
+                        <a class="more6" href="#">
+                            <button class="more6-btn">Подробнее</button>
+                        </a>
+                    </div>
+                    <div class="cards7">
+                        <p class="vip">
+                            VIP
+                        </p>
+                        <div class="icon7"></div>
+                        <p class="amount">
+                            599 ฿
+                        </p>
+                        <a class="more7" href="#">
+                            <button class="more7-btn">Подробнее</button>
+                        </a>
+                    </div>
+                    <div class="cards8">
+                        <p class="vip">
+                            VIP
+                        </p>
+                        <div class="icon8"></div>
+                        <p class="amount">
+                            599 ฿
+                        </p>
+                        <a class="more8" href="#">
+                            <button class="more8-btn">Подробнее</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <hr>
+    <footer>
+        <div class="footer-content">
+            <div class="side-logo left">
+                <img src="http://bm/assets/images/BloordnAlyona.svg" alt="BowLogo Left">
+
+            </div>
+            <div class="inner-content">
+                <div class="logo">
+                    <a href="http://bm/index.html"><img src="http://bm/assets/images/BOW.svg"
+                            class="graficlogo" alt=""></a>
+                </div>
+                <div class="links-columns">
+                    <div class="column">
+                        <a href="http://bm/index.html">Главная</a>
+                        <a href="http://bm/start.html">Начать играть</a>
+                        <a href="http://bm/404.html">Магазин</a>
+                    </div>
+                    <div class="column">
+                        <a href="http://bm/404.html">Правила</a>
+                        <a href="http://bm/404.html">Wiki</a>
+                    </div>
+                </div>
+                <div class="social">
+                    <a href="http://bm/404.html"><img src="http://bm/assets/images/dc.svg" alt="дискорд"></a>
+                    <a href="http://bm/404.html"><img src="http://bm/assets/images/vk.svg" alt="вк"></a>
+                    <a href="http://bm/404.html"><img src="http://bm/assets/images/yt.svg" alt="ютуб"></a>
+                    <a href="http://bm/404.html"><img src="http://bm/assets/images/tg.svg" alt="тг"></a>
+                    <a href="http://bm/404.html"><img src="http://bm/assets/images/tt.svg" alt="туктук"></a>
+
+                </div>
+                <p class="copyright">Copyright 2024. Все права защищены. Designed by Alyona03. Developed by BowTeam</p>
+            </div>
+            <div class="side-logo right">
+                <img src="http://bm/assets/images/BloordnAlyona.svg" alt="BowLogo Right">
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
