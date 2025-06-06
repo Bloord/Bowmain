@@ -6,21 +6,21 @@
     <title>Bow</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="http://bm/assets/css/shopservicesphp.css" rel="stylesheet">
+    <link href="https://bloord.github.io/Bowmain/assets/css/shopservicesphp.css" rel="stylesheet">
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
 </head>
 
 <body>
     <div class="main-wrapper">
         <header>
-            <img class="logo" src="http://bm/assets/images/BOW.svg" alt="лого">
+            <img class="logo" src="https://bloord.github.io/Bowmain/assets/images/BOW.svg" alt="лого">
             <nav>
                 <ul class="nav__links">
-                    <li><a id="main" href="http://bm/index.html">Главная</a></li>
-                    <li><a href="http://bm/start.html">Начать играть</a></li>
-                    <li><a href="http://bm/shopstatus.php">Магазин</a></li>
-                    <li><a href="http://bm/rules.html">Правила</a></li>
-                    <li><a href="http://bm/500.html">Wiki</a></li>
+                    <li><a id="main" href="https://bloord.github.io/Bowmain/index.html">Главная</a></li>
+                    <li><a href="https://bloord.github.io/Bowmain/start.html">Начать играть</a></li>
+                    <li><a href="https://bloord.github.io/Bowmain/shopstatus.php">Магазин</a></li>
+                    <li><a href="https://bloord.github.io/Bowmain/rules.html">Правила</a></li>
+                    <li><a href="https://bloord.github.io/Bowmain/500.html">Wiki</a></li>
                 </ul>
             </nav>
         </header>
@@ -29,15 +29,15 @@
             <div class="section">
                 <nav>
                     <ul class="shop__nav">
-                        <li><a href="http://bm/shopstatus.php">Статус</a></li>
-                        <li><a href="http://bm/shopstatus.php">Предметы</a></li>
-                        <li><a id="shopservices" href="http://bm/shopservices.php">Услуги</a></li>
+                        <li><a href="https://bloord.github.io/Bowmain/shopstatus.php">Статус</a></li>
+                        <li><a href="https://bloord.github.io/Bowmain/shopstatus.php">Предметы</a></li>
+                        <li><a id="shopservices" href="https://bloord.github.io/Bowmain/shopservices.php">Услуги</a></li>
                     </ul>
                 </nav>
                 <div class="squares">
                     <div class="squaressmall">
-                        <img class="currencyLeft" src="http://bm/assets/images/currency.svg" alt="валюта">
-                        <img class="currencyRight" src="http://bm/assets/images/currency.svg" alt="валюта">
+                        <img class="currencyLeft" src="https://bloord.github.io/Bowmain/assets/images/currency.svg" alt="валюта">
+                        <img class="currencyRight" src="https://bloord.github.io/Bowmain/assets/images/currency.svg" alt="валюта">
                         <div class="text">
                             <div class="spent">
                                 <p>
@@ -64,7 +64,7 @@
                         <p class="amount">
                             500 ฿
                         </p>
-                        <a class="more1" href="http://bm/shopban.html">
+                        <a class="more1" href="https://bloord.github.io/Bowmain/shopban.html">
                             <button class="more1-btn">Подробнее</button>
                         </a>
                     </div>
@@ -76,7 +76,7 @@
                         <p class="amount">
                             300 ฿
                         </p>
-                        <a class="more2" href="http://bm/shopmute.html">
+                        <a class="more2" href="https://bloord.github.io/Bowmain/shopmute.html">
                             <button class="more2-btn">Подробнее</button>
                         </a>
                     </div>
@@ -89,37 +89,37 @@
     <footer>
         <div class="footer-content">
             <div class="side-logo left">
-                <img src="http://bm/assets/images/BloordnAlyona.svg" alt="BowLogo Left">
+                <img src="https://bloord.github.io/Bowmain/assets/images/BloordnAlyona.svg" alt="BowLogo Left">
 
             </div>
             <div class="inner-content">
                 <div class="logo">
-                    <a href="http://bm/index.html"><img src="http://bm/assets/images/BOW.svg"
+                    <a href="https://bloord.github.io/Bowmain/index.html"><img src="https://bloord.github.io/Bowmain/assets/images/BOW.svg"
                             class="graficlogo" alt=""></a>
                 </div>
                 <div class="links-columns">
                     <div class="column">
-                        <a href="http://bm/index.html">Главная</a>
-                        <a href="http://bm/start.html">Начать играть</a>
-                        <a href="http://bm/404.html">Магазин</a>
+                        <a href="https://bloord.github.io/Bowmain/index.html">Главная</a>
+                        <a href="https://bloord.github.io/Bowmain/start.html">Начать играть</a>
+                        <a href="https://bloord.github.io/Bowmain/404.html">Магазин</a>
                     </div>
                     <div class="column">
-                        <a href="http://bm/404.html">Правила</a>
-                        <a href="http://bm/404.html">Wiki</a>
+                        <a href="https://bloord.github.io/Bowmain/404.html">Правила</a>
+                        <a href="https://bloord.github.io/Bowmain/404.html">Wiki</a>
                     </div>
                 </div>
                 <div class="social">
-                    <a href="http://bm/404.html"><img src="http://bm/assets/images/dc.svg" alt="дискорд"></a>
-                    <a href="http://bm/404.html"><img src="http://bm/assets/images/vk.svg" alt="вк"></a>
-                    <a href="http://bm/404.html"><img src="http://bm/assets/images/yt.svg" alt="ютуб"></a>
-                    <a href="http://bm/404.html"><img src="http://bm/assets/images/tg.svg" alt="тг"></a>
-                    <a href="http://bm/404.html"><img src="http://bm/assets/images/tt.svg" alt="туктук"></a>
+                    <a href="https://bloord.github.io/Bowmain/404.html"><img src="https://bloord.github.io/Bowmain/assets/images/dc.svg" alt="дискорд"></a>
+                    <a href="https://bloord.github.io/Bowmain/404.html"><img src="https://bloord.github.io/Bowmain/assets/images/vk.svg" alt="вк"></a>
+                    <a href="https://bloord.github.io/Bowmain/404.html"><img src="https://bloord.github.io/Bowmain/assets/images/yt.svg" alt="ютуб"></a>
+                    <a href="https://bloord.github.io/Bowmain/404.html"><img src="https://bloord.github.io/Bowmain/assets/images/tg.svg" alt="тг"></a>
+                    <a href="https://bloord.github.io/Bowmain/404.html"><img src="https://bloord.github.io/Bowmain/assets/images/tt.svg" alt="туктук"></a>
 
                 </div>
                 <p class="copyright">Copyright 2024. Все права защищены. Designed by Alyona03. Developed by BowTeam</p>
             </div>
             <div class="side-logo right">
-                <img src="http://bm/assets/images/BloordnAlyona.svg" alt="BowLogo Right">
+                <img src="https://bloord.github.io/Bowmain/assets/images/BloordnAlyona.svg" alt="BowLogo Right">
             </div>
         </div>
     </footer>
